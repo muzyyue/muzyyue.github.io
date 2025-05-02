@@ -3,11 +3,11 @@
   <title>随心</title>
   
   <subtitle>来看看吧</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://muzyyue.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://muzyyue.github.io/"/>
   <updated>2025-04-30T08:46:48.193Z</updated>
-  <id>http://example.com/</id>
+  <id>https://muzyyue.github.io/</id>
   
   <author>
     <name>ling</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="https://muzyyue.github.io/undefined/4a17b156.html"/>
+    <id>https://muzyyue.github.io/undefined/4a17b156.html</id>
     <published>2025-04-30T08:09:58.303Z</published>
     <updated>2025-04-30T08:46:48.193Z</updated>
     
